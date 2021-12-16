@@ -15,24 +15,4 @@ public class StockModel {
         this.price = price;
         this.quantity = quantity;
     }
-
-    public String getProductID() {
-        return productID;
-    }
-
-    public String getManufacturer() {
-        return manufacturer;
-    }
-
-    public String getProductName() {
-        return productName;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    public int getQuantity() {
-        return quantity;
-    }
 }
